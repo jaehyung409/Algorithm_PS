@@ -6,8 +6,7 @@ int main(){
 	char A[10001];
 	char B[10001];
 
-	cin >> A;
-	cin	>> B;
+	cin >> A >> B;
 
 	long long int sum{0};
 	
