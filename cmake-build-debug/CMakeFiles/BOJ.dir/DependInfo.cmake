@@ -39,6 +39,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/jaehyung/BOJ/c++/Gold/2866.cc" "CMakeFiles/BOJ.dir/c++/Gold/2866.cc.o" "gcc" "CMakeFiles/BOJ.dir/c++/Gold/2866.cc.o.d"
   "/home/jaehyung/BOJ/c++/Gold/5014.cc" "CMakeFiles/BOJ.dir/c++/Gold/5014.cc.o" "gcc" "CMakeFiles/BOJ.dir/c++/Gold/5014.cc.o.d"
   "/home/jaehyung/BOJ/c++/Gold/7983.cc" "CMakeFiles/BOJ.dir/c++/Gold/7983.cc.o" "gcc" "CMakeFiles/BOJ.dir/c++/Gold/7983.cc.o.d"
+  "/home/jaehyung/BOJ/c++/Gold/G1918.cc" "CMakeFiles/BOJ.dir/c++/Gold/G1918.cc.o" "gcc" "CMakeFiles/BOJ.dir/c++/Gold/G1918.cc.o.d"
   "/home/jaehyung/BOJ/c++/Silver/1021.cc" "CMakeFiles/BOJ.dir/c++/Silver/1021.cc.o" "gcc" "CMakeFiles/BOJ.dir/c++/Silver/1021.cc.o.d"
   "/home/jaehyung/BOJ/c++/Silver/1026.cc" "CMakeFiles/BOJ.dir/c++/Silver/1026.cc.o" "gcc" "CMakeFiles/BOJ.dir/c++/Silver/1026.cc.o.d"
   "/home/jaehyung/BOJ/c++/Silver/1049.cc" "CMakeFiles/BOJ.dir/c++/Silver/1049.cc.o" "gcc" "CMakeFiles/BOJ.dir/c++/Silver/1049.cc.o.d"

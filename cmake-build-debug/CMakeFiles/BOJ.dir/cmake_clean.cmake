@@ -63,6 +63,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/BOJ.dir/c++/Gold/5014.cc.o.d"
   "CMakeFiles/BOJ.dir/c++/Gold/7983.cc.o"
   "CMakeFiles/BOJ.dir/c++/Gold/7983.cc.o.d"
+  "CMakeFiles/BOJ.dir/c++/Gold/G1918.cc.o"
+  "CMakeFiles/BOJ.dir/c++/Gold/G1918.cc.o.d"
   "CMakeFiles/BOJ.dir/c++/Silver/1021.cc.o"
   "CMakeFiles/BOJ.dir/c++/Silver/1021.cc.o.d"
   "CMakeFiles/BOJ.dir/c++/Silver/1026.cc.o"

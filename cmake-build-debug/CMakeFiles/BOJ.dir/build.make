@@ -503,10 +503,24 @@ CMakeFiles/BOJ.dir/c++/Gold/7983.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BOJ.dir/c++/Gold/7983.cc.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jaehyung/BOJ/c++/Gold/7983.cc -o CMakeFiles/BOJ.dir/c++/Gold/7983.cc.s
 
+CMakeFiles/BOJ.dir/c++/Gold/G1918.cc.o: CMakeFiles/BOJ.dir/flags.make
+CMakeFiles/BOJ.dir/c++/Gold/G1918.cc.o: ../c++/Gold/G1918.cc
+CMakeFiles/BOJ.dir/c++/Gold/G1918.cc.o: CMakeFiles/BOJ.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/BOJ.dir/c++/Gold/G1918.cc.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BOJ.dir/c++/Gold/G1918.cc.o -MF CMakeFiles/BOJ.dir/c++/Gold/G1918.cc.o.d -o CMakeFiles/BOJ.dir/c++/Gold/G1918.cc.o -c /home/jaehyung/BOJ/c++/Gold/G1918.cc
+
+CMakeFiles/BOJ.dir/c++/Gold/G1918.cc.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BOJ.dir/c++/Gold/G1918.cc.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jaehyung/BOJ/c++/Gold/G1918.cc > CMakeFiles/BOJ.dir/c++/Gold/G1918.cc.i
+
+CMakeFiles/BOJ.dir/c++/Gold/G1918.cc.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BOJ.dir/c++/Gold/G1918.cc.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jaehyung/BOJ/c++/Gold/G1918.cc -o CMakeFiles/BOJ.dir/c++/Gold/G1918.cc.s
+
 CMakeFiles/BOJ.dir/c++/Silver/1021.cc.o: CMakeFiles/BOJ.dir/flags.make
 CMakeFiles/BOJ.dir/c++/Silver/1021.cc.o: ../c++/Silver/1021.cc
 CMakeFiles/BOJ.dir/c++/Silver/1021.cc.o: CMakeFiles/BOJ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1021.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1021.cc.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BOJ.dir/c++/Silver/1021.cc.o -MF CMakeFiles/BOJ.dir/c++/Silver/1021.cc.o.d -o CMakeFiles/BOJ.dir/c++/Silver/1021.cc.o -c /home/jaehyung/BOJ/c++/Silver/1021.cc
 
 CMakeFiles/BOJ.dir/c++/Silver/1021.cc.i: cmake_force
@@ -520,7 +534,7 @@ CMakeFiles/BOJ.dir/c++/Silver/1021.cc.s: cmake_force
 CMakeFiles/BOJ.dir/c++/Silver/1026.cc.o: CMakeFiles/BOJ.dir/flags.make
 CMakeFiles/BOJ.dir/c++/Silver/1026.cc.o: ../c++/Silver/1026.cc
 CMakeFiles/BOJ.dir/c++/Silver/1026.cc.o: CMakeFiles/BOJ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1026.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1026.cc.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BOJ.dir/c++/Silver/1026.cc.o -MF CMakeFiles/BOJ.dir/c++/Silver/1026.cc.o.d -o CMakeFiles/BOJ.dir/c++/Silver/1026.cc.o -c /home/jaehyung/BOJ/c++/Silver/1026.cc
 
 CMakeFiles/BOJ.dir/c++/Silver/1026.cc.i: cmake_force
@@ -534,7 +548,7 @@ CMakeFiles/BOJ.dir/c++/Silver/1026.cc.s: cmake_force
 CMakeFiles/BOJ.dir/c++/Silver/1049.cc.o: CMakeFiles/BOJ.dir/flags.make
 CMakeFiles/BOJ.dir/c++/Silver/1049.cc.o: ../c++/Silver/1049.cc
 CMakeFiles/BOJ.dir/c++/Silver/1049.cc.o: CMakeFiles/BOJ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1049.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1049.cc.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BOJ.dir/c++/Silver/1049.cc.o -MF CMakeFiles/BOJ.dir/c++/Silver/1049.cc.o.d -o CMakeFiles/BOJ.dir/c++/Silver/1049.cc.o -c /home/jaehyung/BOJ/c++/Silver/1049.cc
 
 CMakeFiles/BOJ.dir/c++/Silver/1049.cc.i: cmake_force
@@ -548,7 +562,7 @@ CMakeFiles/BOJ.dir/c++/Silver/1049.cc.s: cmake_force
 CMakeFiles/BOJ.dir/c++/Silver/1052.cc.o: CMakeFiles/BOJ.dir/flags.make
 CMakeFiles/BOJ.dir/c++/Silver/1052.cc.o: ../c++/Silver/1052.cc
 CMakeFiles/BOJ.dir/c++/Silver/1052.cc.o: CMakeFiles/BOJ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1052.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1052.cc.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BOJ.dir/c++/Silver/1052.cc.o -MF CMakeFiles/BOJ.dir/c++/Silver/1052.cc.o.d -o CMakeFiles/BOJ.dir/c++/Silver/1052.cc.o -c /home/jaehyung/BOJ/c++/Silver/1052.cc
 
 CMakeFiles/BOJ.dir/c++/Silver/1052.cc.i: cmake_force
@@ -562,7 +576,7 @@ CMakeFiles/BOJ.dir/c++/Silver/1052.cc.s: cmake_force
 CMakeFiles/BOJ.dir/c++/Silver/1059.cc.o: CMakeFiles/BOJ.dir/flags.make
 CMakeFiles/BOJ.dir/c++/Silver/1059.cc.o: ../c++/Silver/1059.cc
 CMakeFiles/BOJ.dir/c++/Silver/1059.cc.o: CMakeFiles/BOJ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1059.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1059.cc.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BOJ.dir/c++/Silver/1059.cc.o -MF CMakeFiles/BOJ.dir/c++/Silver/1059.cc.o.d -o CMakeFiles/BOJ.dir/c++/Silver/1059.cc.o -c /home/jaehyung/BOJ/c++/Silver/1059.cc
 
 CMakeFiles/BOJ.dir/c++/Silver/1059.cc.i: cmake_force
@@ -576,7 +590,7 @@ CMakeFiles/BOJ.dir/c++/Silver/1059.cc.s: cmake_force
 CMakeFiles/BOJ.dir/c++/Silver/11653.cc.o: CMakeFiles/BOJ.dir/flags.make
 CMakeFiles/BOJ.dir/c++/Silver/11653.cc.o: ../c++/Silver/11653.cc
 CMakeFiles/BOJ.dir/c++/Silver/11653.cc.o: CMakeFiles/BOJ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/11653.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/11653.cc.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BOJ.dir/c++/Silver/11653.cc.o -MF CMakeFiles/BOJ.dir/c++/Silver/11653.cc.o.d -o CMakeFiles/BOJ.dir/c++/Silver/11653.cc.o -c /home/jaehyung/BOJ/c++/Silver/11653.cc
 
 CMakeFiles/BOJ.dir/c++/Silver/11653.cc.i: cmake_force
@@ -590,7 +604,7 @@ CMakeFiles/BOJ.dir/c++/Silver/11653.cc.s: cmake_force
 CMakeFiles/BOJ.dir/c++/Silver/1174.cc.o: CMakeFiles/BOJ.dir/flags.make
 CMakeFiles/BOJ.dir/c++/Silver/1174.cc.o: ../c++/Silver/1174.cc
 CMakeFiles/BOJ.dir/c++/Silver/1174.cc.o: CMakeFiles/BOJ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1174.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1174.cc.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BOJ.dir/c++/Silver/1174.cc.o -MF CMakeFiles/BOJ.dir/c++/Silver/1174.cc.o.d -o CMakeFiles/BOJ.dir/c++/Silver/1174.cc.o -c /home/jaehyung/BOJ/c++/Silver/1174.cc
 
 CMakeFiles/BOJ.dir/c++/Silver/1174.cc.i: cmake_force
@@ -604,7 +618,7 @@ CMakeFiles/BOJ.dir/c++/Silver/1174.cc.s: cmake_force
 CMakeFiles/BOJ.dir/c++/Silver/1246.cc.o: CMakeFiles/BOJ.dir/flags.make
 CMakeFiles/BOJ.dir/c++/Silver/1246.cc.o: ../c++/Silver/1246.cc
 CMakeFiles/BOJ.dir/c++/Silver/1246.cc.o: CMakeFiles/BOJ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1246.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1246.cc.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BOJ.dir/c++/Silver/1246.cc.o -MF CMakeFiles/BOJ.dir/c++/Silver/1246.cc.o.d -o CMakeFiles/BOJ.dir/c++/Silver/1246.cc.o -c /home/jaehyung/BOJ/c++/Silver/1246.cc
 
 CMakeFiles/BOJ.dir/c++/Silver/1246.cc.i: cmake_force
@@ -618,7 +632,7 @@ CMakeFiles/BOJ.dir/c++/Silver/1246.cc.s: cmake_force
 CMakeFiles/BOJ.dir/c++/Silver/1268.cc.o: CMakeFiles/BOJ.dir/flags.make
 CMakeFiles/BOJ.dir/c++/Silver/1268.cc.o: ../c++/Silver/1268.cc
 CMakeFiles/BOJ.dir/c++/Silver/1268.cc.o: CMakeFiles/BOJ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1268.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1268.cc.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BOJ.dir/c++/Silver/1268.cc.o -MF CMakeFiles/BOJ.dir/c++/Silver/1268.cc.o.d -o CMakeFiles/BOJ.dir/c++/Silver/1268.cc.o -c /home/jaehyung/BOJ/c++/Silver/1268.cc
 
 CMakeFiles/BOJ.dir/c++/Silver/1268.cc.i: cmake_force
@@ -632,7 +646,7 @@ CMakeFiles/BOJ.dir/c++/Silver/1268.cc.s: cmake_force
 CMakeFiles/BOJ.dir/c++/Silver/1269.cc.o: CMakeFiles/BOJ.dir/flags.make
 CMakeFiles/BOJ.dir/c++/Silver/1269.cc.o: ../c++/Silver/1269.cc
 CMakeFiles/BOJ.dir/c++/Silver/1269.cc.o: CMakeFiles/BOJ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1269.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1269.cc.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BOJ.dir/c++/Silver/1269.cc.o -MF CMakeFiles/BOJ.dir/c++/Silver/1269.cc.o.d -o CMakeFiles/BOJ.dir/c++/Silver/1269.cc.o -c /home/jaehyung/BOJ/c++/Silver/1269.cc
 
 CMakeFiles/BOJ.dir/c++/Silver/1269.cc.i: cmake_force
@@ -646,7 +660,7 @@ CMakeFiles/BOJ.dir/c++/Silver/1269.cc.s: cmake_force
 CMakeFiles/BOJ.dir/c++/Silver/1291.cc.o: CMakeFiles/BOJ.dir/flags.make
 CMakeFiles/BOJ.dir/c++/Silver/1291.cc.o: ../c++/Silver/1291.cc
 CMakeFiles/BOJ.dir/c++/Silver/1291.cc.o: CMakeFiles/BOJ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1291.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1291.cc.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BOJ.dir/c++/Silver/1291.cc.o -MF CMakeFiles/BOJ.dir/c++/Silver/1291.cc.o.d -o CMakeFiles/BOJ.dir/c++/Silver/1291.cc.o -c /home/jaehyung/BOJ/c++/Silver/1291.cc
 
 CMakeFiles/BOJ.dir/c++/Silver/1291.cc.i: cmake_force
@@ -660,7 +674,7 @@ CMakeFiles/BOJ.dir/c++/Silver/1291.cc.s: cmake_force
 CMakeFiles/BOJ.dir/c++/Silver/1316.cc.o: CMakeFiles/BOJ.dir/flags.make
 CMakeFiles/BOJ.dir/c++/Silver/1316.cc.o: ../c++/Silver/1316.cc
 CMakeFiles/BOJ.dir/c++/Silver/1316.cc.o: CMakeFiles/BOJ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1316.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1316.cc.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BOJ.dir/c++/Silver/1316.cc.o -MF CMakeFiles/BOJ.dir/c++/Silver/1316.cc.o.d -o CMakeFiles/BOJ.dir/c++/Silver/1316.cc.o -c /home/jaehyung/BOJ/c++/Silver/1316.cc
 
 CMakeFiles/BOJ.dir/c++/Silver/1316.cc.i: cmake_force
@@ -674,7 +688,7 @@ CMakeFiles/BOJ.dir/c++/Silver/1316.cc.s: cmake_force
 CMakeFiles/BOJ.dir/c++/Silver/14241.cc.o: CMakeFiles/BOJ.dir/flags.make
 CMakeFiles/BOJ.dir/c++/Silver/14241.cc.o: ../c++/Silver/14241.cc
 CMakeFiles/BOJ.dir/c++/Silver/14241.cc.o: CMakeFiles/BOJ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/14241.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/14241.cc.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BOJ.dir/c++/Silver/14241.cc.o -MF CMakeFiles/BOJ.dir/c++/Silver/14241.cc.o.d -o CMakeFiles/BOJ.dir/c++/Silver/14241.cc.o -c /home/jaehyung/BOJ/c++/Silver/14241.cc
 
 CMakeFiles/BOJ.dir/c++/Silver/14241.cc.i: cmake_force
@@ -688,7 +702,7 @@ CMakeFiles/BOJ.dir/c++/Silver/14241.cc.s: cmake_force
 CMakeFiles/BOJ.dir/c++/Silver/1590.cc.o: CMakeFiles/BOJ.dir/flags.make
 CMakeFiles/BOJ.dir/c++/Silver/1590.cc.o: ../c++/Silver/1590.cc
 CMakeFiles/BOJ.dir/c++/Silver/1590.cc.o: CMakeFiles/BOJ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1590.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1590.cc.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BOJ.dir/c++/Silver/1590.cc.o -MF CMakeFiles/BOJ.dir/c++/Silver/1590.cc.o.d -o CMakeFiles/BOJ.dir/c++/Silver/1590.cc.o -c /home/jaehyung/BOJ/c++/Silver/1590.cc
 
 CMakeFiles/BOJ.dir/c++/Silver/1590.cc.i: cmake_force
@@ -702,7 +716,7 @@ CMakeFiles/BOJ.dir/c++/Silver/1590.cc.s: cmake_force
 CMakeFiles/BOJ.dir/c++/Silver/1822.cc.o: CMakeFiles/BOJ.dir/flags.make
 CMakeFiles/BOJ.dir/c++/Silver/1822.cc.o: ../c++/Silver/1822.cc
 CMakeFiles/BOJ.dir/c++/Silver/1822.cc.o: CMakeFiles/BOJ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1822.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/1822.cc.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BOJ.dir/c++/Silver/1822.cc.o -MF CMakeFiles/BOJ.dir/c++/Silver/1822.cc.o.d -o CMakeFiles/BOJ.dir/c++/Silver/1822.cc.o -c /home/jaehyung/BOJ/c++/Silver/1822.cc
 
 CMakeFiles/BOJ.dir/c++/Silver/1822.cc.i: cmake_force
@@ -716,7 +730,7 @@ CMakeFiles/BOJ.dir/c++/Silver/1822.cc.s: cmake_force
 CMakeFiles/BOJ.dir/c++/Silver/18870.cc.o: CMakeFiles/BOJ.dir/flags.make
 CMakeFiles/BOJ.dir/c++/Silver/18870.cc.o: ../c++/Silver/18870.cc
 CMakeFiles/BOJ.dir/c++/Silver/18870.cc.o: CMakeFiles/BOJ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/18870.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/18870.cc.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BOJ.dir/c++/Silver/18870.cc.o -MF CMakeFiles/BOJ.dir/c++/Silver/18870.cc.o.d -o CMakeFiles/BOJ.dir/c++/Silver/18870.cc.o -c /home/jaehyung/BOJ/c++/Silver/18870.cc
 
 CMakeFiles/BOJ.dir/c++/Silver/18870.cc.i: cmake_force
@@ -730,7 +744,7 @@ CMakeFiles/BOJ.dir/c++/Silver/18870.cc.s: cmake_force
 CMakeFiles/BOJ.dir/c++/Silver/2057.cc.o: CMakeFiles/BOJ.dir/flags.make
 CMakeFiles/BOJ.dir/c++/Silver/2057.cc.o: ../c++/Silver/2057.cc
 CMakeFiles/BOJ.dir/c++/Silver/2057.cc.o: CMakeFiles/BOJ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/2057.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/2057.cc.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BOJ.dir/c++/Silver/2057.cc.o -MF CMakeFiles/BOJ.dir/c++/Silver/2057.cc.o.d -o CMakeFiles/BOJ.dir/c++/Silver/2057.cc.o -c /home/jaehyung/BOJ/c++/Silver/2057.cc
 
 CMakeFiles/BOJ.dir/c++/Silver/2057.cc.i: cmake_force
@@ -744,7 +758,7 @@ CMakeFiles/BOJ.dir/c++/Silver/2057.cc.s: cmake_force
 CMakeFiles/BOJ.dir/c++/Silver/23028.cc.o: CMakeFiles/BOJ.dir/flags.make
 CMakeFiles/BOJ.dir/c++/Silver/23028.cc.o: ../c++/Silver/23028.cc
 CMakeFiles/BOJ.dir/c++/Silver/23028.cc.o: CMakeFiles/BOJ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/23028.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/23028.cc.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BOJ.dir/c++/Silver/23028.cc.o -MF CMakeFiles/BOJ.dir/c++/Silver/23028.cc.o.d -o CMakeFiles/BOJ.dir/c++/Silver/23028.cc.o -c /home/jaehyung/BOJ/c++/Silver/23028.cc
 
 CMakeFiles/BOJ.dir/c++/Silver/23028.cc.i: cmake_force
@@ -758,7 +772,7 @@ CMakeFiles/BOJ.dir/c++/Silver/23028.cc.s: cmake_force
 CMakeFiles/BOJ.dir/c++/Silver/2607.cc.o: CMakeFiles/BOJ.dir/flags.make
 CMakeFiles/BOJ.dir/c++/Silver/2607.cc.o: ../c++/Silver/2607.cc
 CMakeFiles/BOJ.dir/c++/Silver/2607.cc.o: CMakeFiles/BOJ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/2607.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/2607.cc.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BOJ.dir/c++/Silver/2607.cc.o -MF CMakeFiles/BOJ.dir/c++/Silver/2607.cc.o.d -o CMakeFiles/BOJ.dir/c++/Silver/2607.cc.o -c /home/jaehyung/BOJ/c++/Silver/2607.cc
 
 CMakeFiles/BOJ.dir/c++/Silver/2607.cc.i: cmake_force
@@ -772,7 +786,7 @@ CMakeFiles/BOJ.dir/c++/Silver/2607.cc.s: cmake_force
 CMakeFiles/BOJ.dir/c++/Silver/2852.cc.o: CMakeFiles/BOJ.dir/flags.make
 CMakeFiles/BOJ.dir/c++/Silver/2852.cc.o: ../c++/Silver/2852.cc
 CMakeFiles/BOJ.dir/c++/Silver/2852.cc.o: CMakeFiles/BOJ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/2852.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/2852.cc.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BOJ.dir/c++/Silver/2852.cc.o -MF CMakeFiles/BOJ.dir/c++/Silver/2852.cc.o.d -o CMakeFiles/BOJ.dir/c++/Silver/2852.cc.o -c /home/jaehyung/BOJ/c++/Silver/2852.cc
 
 CMakeFiles/BOJ.dir/c++/Silver/2852.cc.i: cmake_force
@@ -786,7 +800,7 @@ CMakeFiles/BOJ.dir/c++/Silver/2852.cc.s: cmake_force
 CMakeFiles/BOJ.dir/c++/Silver/3186.cc.o: CMakeFiles/BOJ.dir/flags.make
 CMakeFiles/BOJ.dir/c++/Silver/3186.cc.o: ../c++/Silver/3186.cc
 CMakeFiles/BOJ.dir/c++/Silver/3186.cc.o: CMakeFiles/BOJ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/3186.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/3186.cc.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BOJ.dir/c++/Silver/3186.cc.o -MF CMakeFiles/BOJ.dir/c++/Silver/3186.cc.o.d -o CMakeFiles/BOJ.dir/c++/Silver/3186.cc.o -c /home/jaehyung/BOJ/c++/Silver/3186.cc
 
 CMakeFiles/BOJ.dir/c++/Silver/3186.cc.i: cmake_force
@@ -800,7 +814,7 @@ CMakeFiles/BOJ.dir/c++/Silver/3186.cc.s: cmake_force
 CMakeFiles/BOJ.dir/c++/Silver/3944.cc.o: CMakeFiles/BOJ.dir/flags.make
 CMakeFiles/BOJ.dir/c++/Silver/3944.cc.o: ../c++/Silver/3944.cc
 CMakeFiles/BOJ.dir/c++/Silver/3944.cc.o: CMakeFiles/BOJ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/3944.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/3944.cc.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BOJ.dir/c++/Silver/3944.cc.o -MF CMakeFiles/BOJ.dir/c++/Silver/3944.cc.o.d -o CMakeFiles/BOJ.dir/c++/Silver/3944.cc.o -c /home/jaehyung/BOJ/c++/Silver/3944.cc
 
 CMakeFiles/BOJ.dir/c++/Silver/3944.cc.i: cmake_force
@@ -814,7 +828,7 @@ CMakeFiles/BOJ.dir/c++/Silver/3944.cc.s: cmake_force
 CMakeFiles/BOJ.dir/c++/Silver/4159.cc.o: CMakeFiles/BOJ.dir/flags.make
 CMakeFiles/BOJ.dir/c++/Silver/4159.cc.o: ../c++/Silver/4159.cc
 CMakeFiles/BOJ.dir/c++/Silver/4159.cc.o: CMakeFiles/BOJ.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/4159.cc.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/BOJ.dir/c++/Silver/4159.cc.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/BOJ.dir/c++/Silver/4159.cc.o -MF CMakeFiles/BOJ.dir/c++/Silver/4159.cc.o.d -o CMakeFiles/BOJ.dir/c++/Silver/4159.cc.o -c /home/jaehyung/BOJ/c++/Silver/4159.cc
 
 CMakeFiles/BOJ.dir/c++/Silver/4159.cc.i: cmake_force
@@ -858,6 +872,7 @@ BOJ_OBJECTS = \
 "CMakeFiles/BOJ.dir/c++/Gold/2866.cc.o" \
 "CMakeFiles/BOJ.dir/c++/Gold/5014.cc.o" \
 "CMakeFiles/BOJ.dir/c++/Gold/7983.cc.o" \
+"CMakeFiles/BOJ.dir/c++/Gold/G1918.cc.o" \
 "CMakeFiles/BOJ.dir/c++/Silver/1021.cc.o" \
 "CMakeFiles/BOJ.dir/c++/Silver/1026.cc.o" \
 "CMakeFiles/BOJ.dir/c++/Silver/1049.cc.o" \
@@ -916,6 +931,7 @@ BOJ: CMakeFiles/BOJ.dir/c++/Gold/2437.cc.o
 BOJ: CMakeFiles/BOJ.dir/c++/Gold/2866.cc.o
 BOJ: CMakeFiles/BOJ.dir/c++/Gold/5014.cc.o
 BOJ: CMakeFiles/BOJ.dir/c++/Gold/7983.cc.o
+BOJ: CMakeFiles/BOJ.dir/c++/Gold/G1918.cc.o
 BOJ: CMakeFiles/BOJ.dir/c++/Silver/1021.cc.o
 BOJ: CMakeFiles/BOJ.dir/c++/Silver/1026.cc.o
 BOJ: CMakeFiles/BOJ.dir/c++/Silver/1049.cc.o
@@ -941,7 +957,7 @@ BOJ: CMakeFiles/BOJ.dir/c++/Silver/3944.cc.o
 BOJ: CMakeFiles/BOJ.dir/c++/Silver/4159.cc.o
 BOJ: CMakeFiles/BOJ.dir/build.make
 BOJ: CMakeFiles/BOJ.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Linking CXX executable BOJ"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Linking CXX executable BOJ"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/BOJ.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
