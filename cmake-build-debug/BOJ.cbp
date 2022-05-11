@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="BOJ"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/jaehyung/BOJ/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BOJ">
+				<Option output="/home/jaehyung/BOJ/cmake-build-debug/BOJ" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jaehyung/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 BOJ"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="BOJ/fast">
+				<Option output="/home/jaehyung/BOJ/cmake-build-debug/BOJ" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jaehyung/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 BOJ/fast"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/jaehyung/BOJ/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/jaehyung/BOJ/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/jaehyung/BOJ/c++/Bronze/10870.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Bronze/1100.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Bronze/1159.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Bronze/1193.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Bronze/1225.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Bronze/1236.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Bronze/1296.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Bronze/1453.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Bronze/14935.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Bronze/1547.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Bronze/15726.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Bronze/1977.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Bronze/23738.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Contest/GoodByeBoj2021/A.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Contest/GoodByeBoj2021/B.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Contest/HelloBoj2022/A.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Contest/Shake2021/A.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Gold/1011.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Gold/1013.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Gold/1038.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Gold/1339.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Gold/16678.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Gold/1747.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Gold/1990.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Gold/2023.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Gold/2045.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Gold/2075.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Gold/2437.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Gold/2866.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Gold/5014.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Gold/7983.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Silver/1021.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Silver/1026.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Silver/1049.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Silver/1052.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Silver/1059.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Silver/11653.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Silver/1174.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Silver/1246.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Silver/1268.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Silver/1269.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Silver/1291.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Silver/1316.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Silver/14241.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Silver/1590.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Silver/1822.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Silver/18870.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Silver/2057.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Silver/23028.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Silver/2607.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Silver/2852.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Silver/3186.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Silver/3944.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Silver/4159.cc">
+			<Option target="BOJ"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
