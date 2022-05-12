@@ -831,6 +831,19 @@ Shake2021_A/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/23028.dir/build.make CMakeFiles/23028.dir/build
 .PHONY : 23028/fast
 
+#=============================================================================
+# Target rules for targets named S1260
+
+# Build rule for target.
+S1260: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 S1260
+.PHONY : S1260
+
+# fast build rule for target.
+S1260/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/S1260.dir/build.make CMakeFiles/S1260.dir/build
+.PHONY : S1260/fast
+
 c++/Bronze/10870.o: c++/Bronze/10870.cc.o
 .PHONY : c++/Bronze/10870.o
 
@@ -2151,6 +2164,30 @@ c++/Silver/4159.cc.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/4159.dir/build.make CMakeFiles/4159.dir/c++/Silver/4159.cc.s
 .PHONY : c++/Silver/4159.cc.s
 
+c++/Silver/S1260.o: c++/Silver/S1260.cc.o
+.PHONY : c++/Silver/S1260.o
+
+# target to build an object file
+c++/Silver/S1260.cc.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/S1260.dir/build.make CMakeFiles/S1260.dir/c++/Silver/S1260.cc.o
+.PHONY : c++/Silver/S1260.cc.o
+
+c++/Silver/S1260.i: c++/Silver/S1260.cc.i
+.PHONY : c++/Silver/S1260.i
+
+# target to preprocess a source file
+c++/Silver/S1260.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/S1260.dir/build.make CMakeFiles/S1260.dir/c++/Silver/S1260.cc.i
+.PHONY : c++/Silver/S1260.cc.i
+
+c++/Silver/S1260.s: c++/Silver/S1260.cc.s
+.PHONY : c++/Silver/S1260.s
+
+# target to generate assembly for a file
+c++/Silver/S1260.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/S1260.dir/build.make CMakeFiles/S1260.dir/c++/Silver/S1260.cc.s
+.PHONY : c++/Silver/S1260.cc.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -2213,6 +2250,7 @@ help:
 	@echo "... GoodByeBoj2021_A"
 	@echo "... GoodByeBoj2021_B"
 	@echo "... HelloBoj2021_B"
+	@echo "... S1260"
 	@echo "... Shake2021_A"
 	@echo "... c++/Bronze/10870.o"
 	@echo "... c++/Bronze/10870.i"
@@ -2379,6 +2417,9 @@ help:
 	@echo "... c++/Silver/4159.o"
 	@echo "... c++/Silver/4159.i"
 	@echo "... c++/Silver/4159.s"
+	@echo "... c++/Silver/S1260.o"
+	@echo "... c++/Silver/S1260.i"
+	@echo "... c++/Silver/S1260.s"
 .PHONY : help
 
 
