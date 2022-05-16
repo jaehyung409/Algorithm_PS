@@ -28,6 +28,7 @@
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/G1918.dir
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/G7576.dir
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/G17129.dir
+/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/G2206.dir
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/GoodByeBoj2021_A.dir
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/GoodByeBoj2021_B.dir
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/HelloBoj2021_B.dir
