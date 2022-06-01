@@ -13,8 +13,8 @@ int main(){
     i--;
     while(K != 0){
         if(K >= coins[i]) {
-            K -= coins[i];
-            count++;
+            count += K/coins[i];
+            K %= coins[i];
         }
         else
             i--;
