@@ -2833,6 +2833,50 @@
 					<DistClean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="S1991">
+				<Option output="/home/jaehyung/BOJ/cmake-build-debug/S1991" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jaehyung/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 S1991"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="S1991/fast">
+				<Option output="/home/jaehyung/BOJ/cmake-build-debug/S1991" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jaehyung/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 S1991/fast"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="/home/jaehyung/BOJ/cmake-build-debug"/>
 				<Option type="4"/>
@@ -3045,6 +3089,9 @@
 		</Unit>
 		<Unit filename="/home/jaehyung/BOJ/c++/Silver/S1260.cc">
 			<Option target="S1260"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Silver/S1991.cc">
+			<Option target="S1991"/>
 		</Unit>
 		<Unit filename="/home/jaehyung/BOJ/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
