@@ -961,6 +961,19 @@ S1991/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/S1991.dir/build.make CMakeFiles/S1991.dir/build
 .PHONY : S1991/fast
 
+#=============================================================================
+# Target rules for targets named S11053
+
+# Build rule for target.
+S11053: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 S11053
+.PHONY : S11053
+
+# fast build rule for target.
+S11053/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/S11053.dir/build.make CMakeFiles/S11053.dir/build
+.PHONY : S11053/fast
+
 c++/Bronze/10870.o: c++/Bronze/10870.cc.o
 .PHONY : c++/Bronze/10870.o
 
@@ -2473,6 +2486,30 @@ c++/Silver/S11047.cc.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/S11047.dir/build.make CMakeFiles/S11047.dir/c++/Silver/S11047.cc.s
 .PHONY : c++/Silver/S11047.cc.s
 
+c++/Silver/S11053.o: c++/Silver/S11053.cc.o
+.PHONY : c++/Silver/S11053.o
+
+# target to build an object file
+c++/Silver/S11053.cc.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/S11053.dir/build.make CMakeFiles/S11053.dir/c++/Silver/S11053.cc.o
+.PHONY : c++/Silver/S11053.cc.o
+
+c++/Silver/S11053.i: c++/Silver/S11053.cc.i
+.PHONY : c++/Silver/S11053.i
+
+# target to preprocess a source file
+c++/Silver/S11053.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/S11053.dir/build.make CMakeFiles/S11053.dir/c++/Silver/S11053.cc.i
+.PHONY : c++/Silver/S11053.cc.i
+
+c++/Silver/S11053.s: c++/Silver/S11053.cc.s
+.PHONY : c++/Silver/S11053.s
+
+# target to generate assembly for a file
+c++/Silver/S11053.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/S11053.dir/build.make CMakeFiles/S11053.dir/c++/Silver/S11053.cc.s
+.PHONY : c++/Silver/S11053.cc.s
+
 c++/Silver/S1260.o: c++/Silver/S1260.cc.o
 .PHONY : c++/Silver/S1260.o
 
@@ -2591,6 +2628,7 @@ help:
 	@echo "... HelloBoj2021_B"
 	@echo "... S1012"
 	@echo "... S11047"
+	@echo "... S11053"
 	@echo "... S1260"
 	@echo "... S1991"
 	@echo "... Shake2021_A"
@@ -2783,6 +2821,9 @@ help:
 	@echo "... c++/Silver/S11047.o"
 	@echo "... c++/Silver/S11047.i"
 	@echo "... c++/Silver/S11047.s"
+	@echo "... c++/Silver/S11053.o"
+	@echo "... c++/Silver/S11053.i"
+	@echo "... c++/Silver/S11053.s"
 	@echo "... c++/Silver/S1260.o"
 	@echo "... c++/Silver/S1260.i"
 	@echo "... c++/Silver/S1260.s"
