@@ -32,6 +32,7 @@
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/G1753.dir
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/G1083.dir
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/G1976.dir
+/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/G11054.dir
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/GoodByeBoj2021_A.dir
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/GoodByeBoj2021_B.dir
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/HelloBoj2021_B.dir

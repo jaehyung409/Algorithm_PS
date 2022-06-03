@@ -1513,6 +1513,50 @@
 					<DistClean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="G11054">
+				<Option output="/home/jaehyung/BOJ/cmake-build-debug/G11054" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jaehyung/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 G11054"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="G11054/fast">
+				<Option output="/home/jaehyung/BOJ/cmake-build-debug/G11054" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jaehyung/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 G11054/fast"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="GoodByeBoj2021_A">
 				<Option output="/home/jaehyung/BOJ/cmake-build-debug/GoodByeBoj2021_A" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/jaehyung/BOJ/cmake-build-debug"/>
@@ -3037,6 +3081,9 @@
 		</Unit>
 		<Unit filename="/home/jaehyung/BOJ/c++/Gold/G1083.cc">
 			<Option target="G1083"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Gold/G11054.cc">
+			<Option target="G11054"/>
 		</Unit>
 		<Unit filename="/home/jaehyung/BOJ/c++/Gold/G17129.cc">
 			<Option target="G17129"/>
