@@ -546,17 +546,17 @@ G1083/fast:
 .PHONY : G1083/fast
 
 #=============================================================================
-# Target rules for targets named G1976
+# Target rules for targets named G1916
 
 # Build rule for target.
-G1976: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 G1976
-.PHONY : G1976
+G1916: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 G1916
+.PHONY : G1916
 
 # fast build rule for target.
-G1976/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/G1976.dir/build.make CMakeFiles/G1976.dir/build
-.PHONY : G1976/fast
+G1916/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/G1916.dir/build.make CMakeFiles/G1916.dir/build
+.PHONY : G1916/fast
 
 #=============================================================================
 # Target rules for targets named G11054
@@ -986,6 +986,19 @@ S11053: cmake_check_build_system
 S11053/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/S11053.dir/build.make CMakeFiles/S11053.dir/build
 .PHONY : S11053/fast
+
+#=============================================================================
+# Target rules for targets named S11660
+
+# Build rule for target.
+S11660: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 S11660
+.PHONY : S11660
+
+# fast build rule for target.
+S11660/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/S11660.dir/build.make CMakeFiles/S11660.dir/build
+.PHONY : S11660/fast
 
 c++/Bronze/10870.o: c++/Bronze/10870.cc.o
 .PHONY : c++/Bronze/10870.o
@@ -1832,7 +1845,7 @@ c++/Gold/G1916.o: c++/Gold/G1916.cc.o
 
 # target to build an object file
 c++/Gold/G1916.cc.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/G1976.dir/build.make CMakeFiles/G1976.dir/c++/Gold/G1916.cc.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/G1916.dir/build.make CMakeFiles/G1916.dir/c++/Gold/G1916.cc.o
 .PHONY : c++/Gold/G1916.cc.o
 
 c++/Gold/G1916.i: c++/Gold/G1916.cc.i
@@ -1840,7 +1853,7 @@ c++/Gold/G1916.i: c++/Gold/G1916.cc.i
 
 # target to preprocess a source file
 c++/Gold/G1916.cc.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/G1976.dir/build.make CMakeFiles/G1976.dir/c++/Gold/G1916.cc.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/G1916.dir/build.make CMakeFiles/G1916.dir/c++/Gold/G1916.cc.i
 .PHONY : c++/Gold/G1916.cc.i
 
 c++/Gold/G1916.s: c++/Gold/G1916.cc.s
@@ -1848,7 +1861,7 @@ c++/Gold/G1916.s: c++/Gold/G1916.cc.s
 
 # target to generate assembly for a file
 c++/Gold/G1916.cc.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/G1976.dir/build.make CMakeFiles/G1976.dir/c++/Gold/G1916.cc.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/G1916.dir/build.make CMakeFiles/G1916.dir/c++/Gold/G1916.cc.s
 .PHONY : c++/Gold/G1916.cc.s
 
 c++/Gold/G1918.o: c++/Gold/G1918.cc.o
@@ -2547,6 +2560,30 @@ c++/Silver/S11053.cc.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/S11053.dir/build.make CMakeFiles/S11053.dir/c++/Silver/S11053.cc.s
 .PHONY : c++/Silver/S11053.cc.s
 
+c++/Silver/S11660.o: c++/Silver/S11660.cc.o
+.PHONY : c++/Silver/S11660.o
+
+# target to build an object file
+c++/Silver/S11660.cc.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/S11660.dir/build.make CMakeFiles/S11660.dir/c++/Silver/S11660.cc.o
+.PHONY : c++/Silver/S11660.cc.o
+
+c++/Silver/S11660.i: c++/Silver/S11660.cc.i
+.PHONY : c++/Silver/S11660.i
+
+# target to preprocess a source file
+c++/Silver/S11660.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/S11660.dir/build.make CMakeFiles/S11660.dir/c++/Silver/S11660.cc.i
+.PHONY : c++/Silver/S11660.cc.i
+
+c++/Silver/S11660.s: c++/Silver/S11660.cc.s
+.PHONY : c++/Silver/S11660.s
+
+# target to generate assembly for a file
+c++/Silver/S11660.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/S11660.dir/build.make CMakeFiles/S11660.dir/c++/Silver/S11660.cc.s
+.PHONY : c++/Silver/S11660.cc.s
+
 c++/Silver/S1260.o: c++/Silver/S1260.cc.o
 .PHONY : c++/Silver/S1260.o
 
@@ -2657,8 +2694,8 @@ help:
 	@echo "... G11054"
 	@echo "... G17129"
 	@echo "... G1753"
+	@echo "... G1916"
 	@echo "... G1918"
-	@echo "... G1976"
 	@echo "... G2206"
 	@echo "... G7576"
 	@echo "... GoodByeBoj2021_A"
@@ -2667,6 +2704,7 @@ help:
 	@echo "... S1012"
 	@echo "... S11047"
 	@echo "... S11053"
+	@echo "... S11660"
 	@echo "... S1260"
 	@echo "... S1991"
 	@echo "... Shake2021_A"
@@ -2865,6 +2903,9 @@ help:
 	@echo "... c++/Silver/S11053.o"
 	@echo "... c++/Silver/S11053.i"
 	@echo "... c++/Silver/S11053.s"
+	@echo "... c++/Silver/S11660.o"
+	@echo "... c++/Silver/S11660.i"
+	@echo "... c++/Silver/S11660.s"
 	@echo "... c++/Silver/S1260.o"
 	@echo "... c++/Silver/S1260.i"
 	@echo "... c++/Silver/S1260.s"

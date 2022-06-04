@@ -1469,8 +1469,8 @@
 					<DistClean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="G1976">
-				<Option output="/home/jaehyung/BOJ/cmake-build-debug/G1976" prefix_auto="0" extension_auto="0"/>
+			<Target title="G1916">
+				<Option output="/home/jaehyung/BOJ/cmake-build-debug/G1916" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/jaehyung/BOJ/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -1485,14 +1485,14 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 G1976"/>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 G1916"/>
 					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="G1976/fast">
-				<Option output="/home/jaehyung/BOJ/cmake-build-debug/G1976" prefix_auto="0" extension_auto="0"/>
+			<Target title="G1916/fast">
+				<Option output="/home/jaehyung/BOJ/cmake-build-debug/G1916" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/jaehyung/BOJ/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -1507,7 +1507,7 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 G1976/fast"/>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 G1916/fast"/>
 					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -2965,6 +2965,50 @@
 					<DistClean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="S11660">
+				<Option output="/home/jaehyung/BOJ/cmake-build-debug/S11660" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jaehyung/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 S11660"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="S11660/fast">
+				<Option output="/home/jaehyung/BOJ/cmake-build-debug/S11660" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/jaehyung/BOJ/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/11"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/11"/>
+					<Add directory="/usr/include/c++/11/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/11/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 S11660/fast"/>
+					<CompileFile command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j6 -f &quot;/home/jaehyung/BOJ/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="/home/jaehyung/BOJ/cmake-build-debug"/>
 				<Option type="4"/>
@@ -3092,7 +3136,7 @@
 			<Option target="G1753"/>
 		</Unit>
 		<Unit filename="/home/jaehyung/BOJ/c++/Gold/G1916.cc">
-			<Option target="G1976"/>
+			<Option target="G1916"/>
 		</Unit>
 		<Unit filename="/home/jaehyung/BOJ/c++/Gold/G1918.cc">
 			<Option target="G1918"/>
@@ -3180,6 +3224,9 @@
 		</Unit>
 		<Unit filename="/home/jaehyung/BOJ/c++/Silver/S11053.cc">
 			<Option target="S11053"/>
+		</Unit>
+		<Unit filename="/home/jaehyung/BOJ/c++/Silver/S11660.cc">
+			<Option target="S11660"/>
 		</Unit>
 		<Unit filename="/home/jaehyung/BOJ/c++/Silver/S1260.cc">
 			<Option target="S1260"/>

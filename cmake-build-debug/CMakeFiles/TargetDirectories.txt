@@ -31,7 +31,7 @@
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/G2206.dir
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/G1753.dir
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/G1083.dir
-/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/G1976.dir
+/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/G1916.dir
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/G11054.dir
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/GoodByeBoj2021_A.dir
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/GoodByeBoj2021_B.dir
@@ -65,5 +65,6 @@
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/S1012.dir
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/S1991.dir
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/S11053.dir
+/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/S11660.dir
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/edit_cache.dir
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/rebuild_cache.dir
