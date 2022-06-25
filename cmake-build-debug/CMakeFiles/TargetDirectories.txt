@@ -69,5 +69,6 @@
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/S11053.dir
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/S11660.dir
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/S11725.dir
+/home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/S1149.dir
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/edit_cache.dir
 /home/jaehyung/BOJ/cmake-build-debug/CMakeFiles/rebuild_cache.dir
