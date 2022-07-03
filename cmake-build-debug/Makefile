@@ -598,6 +598,19 @@ G12851/fast:
 .PHONY : G12851/fast
 
 #=============================================================================
+# Target rules for targets named G2042
+
+# Build rule for target.
+G2042: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 G2042
+.PHONY : G2042
+
+# fast build rule for target.
+G2042/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/G2042.dir/build.make CMakeFiles/G2042.dir/build
+.PHONY : G2042/fast
+
+#=============================================================================
 # Target rules for targets named GoodByeBoj2021_A
 
 # Build rule for target.
@@ -1988,6 +2001,30 @@ c++/Gold/G1918.cc.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/G1918.dir/build.make CMakeFiles/G1918.dir/c++/Gold/G1918.cc.s
 .PHONY : c++/Gold/G1918.cc.s
 
+c++/Gold/G2042.o: c++/Gold/G2042.cc.o
+.PHONY : c++/Gold/G2042.o
+
+# target to build an object file
+c++/Gold/G2042.cc.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/G2042.dir/build.make CMakeFiles/G2042.dir/c++/Gold/G2042.cc.o
+.PHONY : c++/Gold/G2042.cc.o
+
+c++/Gold/G2042.i: c++/Gold/G2042.cc.i
+.PHONY : c++/Gold/G2042.i
+
+# target to preprocess a source file
+c++/Gold/G2042.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/G2042.dir/build.make CMakeFiles/G2042.dir/c++/Gold/G2042.cc.i
+.PHONY : c++/Gold/G2042.cc.i
+
+c++/Gold/G2042.s: c++/Gold/G2042.cc.s
+.PHONY : c++/Gold/G2042.s
+
+# target to generate assembly for a file
+c++/Gold/G2042.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/G2042.dir/build.make CMakeFiles/G2042.dir/c++/Gold/G2042.cc.s
+.PHONY : c++/Gold/G2042.cc.s
+
 c++/Gold/G2206.o: c++/Gold/G2206.cc.o
 .PHONY : c++/Gold/G2206.o
 
@@ -2846,6 +2883,7 @@ help:
 	@echo "... G1753"
 	@echo "... G1916"
 	@echo "... G1918"
+	@echo "... G2042"
 	@echo "... G2206"
 	@echo "... G7576"
 	@echo "... GoodByeBoj2021_A"
@@ -2977,6 +3015,9 @@ help:
 	@echo "... c++/Gold/G1918.o"
 	@echo "... c++/Gold/G1918.i"
 	@echo "... c++/Gold/G1918.s"
+	@echo "... c++/Gold/G2042.o"
+	@echo "... c++/Gold/G2042.i"
+	@echo "... c++/Gold/G2042.s"
 	@echo "... c++/Gold/G2206.o"
 	@echo "... c++/Gold/G2206.i"
 	@echo "... c++/Gold/G2206.s"
