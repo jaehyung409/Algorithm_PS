@@ -20,11 +20,11 @@ long long merge_histogram(int low, int mid, int high, int (&histogram)[MAX_SIZE]
     }
     return area;
 }
-long long max_rectangle_in_histogram(const int size, int low, int high, int (&histogram)[MAX_SIZE]){
+long long max_rectangle_in_histogram(int low, int high, int (&histogram)[MAX_SIZE]){
     if (low == high) return histogram[low];
     int mid = (low + high) / 2;
-    long long left_max = max_rectangle_in_histogram(size, low, mid, histogram);
-    long long right_max = max_rectangle_in_histogram(size, mid + 1, high, histogram);
+    long long left_max = max_rectangle_in_histogram(low, mid, histogram);
+    long long right_max = max_rectangle_in_histogram(mid + 1, high, histogram);
     long long merge_max = merge_histogram(low, mid, high, histogram);
     return std::max({left_max, merge_max, right_max});
 }
@@ -37,7 +37,7 @@ int main(){
         std::cin >> N;
         if (N == 0) break;
         for (i = 0; i < N; i++) std::cin >> histogram[i];
-        std::cout << max_rectangle_in_histogram(N, 0, N-1, histogram) << '\n';
+        std::cout << max_rectangle_in_histogram(0, N-1, histogram) << '\n';
     }
 
     return 0;
