@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.22)
 project(BOJ)
 
-set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD 17)
 
 add_executable(1100 c++/Bronze/1100.cc)
 add_executable(1159 c++/Bronze/1159.cc)
@@ -97,3 +97,5 @@ add_executable(2166 c++/Gold/2166.cc)
 add_executable(11003 c++/Platinum/11003.cc)
 add_executable(2467 c++/Gold/2467.cc)
 add_executable(15681 c++/Gold/15681.cc)
+add_executable(1197 c++/Gold/1197.cc)
+add_executable(1395 c++/Platinum/1395.cc)
