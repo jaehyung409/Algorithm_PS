@@ -4,7 +4,7 @@
 
 # Programmers
 - jaehyung409
-- <img width="742" height="330" alt="image" src="https://github.com/user-attachments/assets/9e5f9494-55d6-4954-bfdc-4cded09ef68c"/>
+- <img width="742" height="330" alt="image" src="https://github.com/user-attachments/assets/9175de67-18c6-4b57-9cf1-11a5c0d7e254"/>
 - This image captured from "Programmers Problem Solving 평가 리포트 (Beta)"
-    - Updated every 5 problems solved (Next update: 25 solved, Last Updated: 2025-11-13)
-    - Solved :30
+    - Updated every 5 problems solved (Next update: 40 solved, Last Updated: 2025-11-21)
+    - Solved :35
